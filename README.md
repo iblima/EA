@@ -12,6 +12,6 @@
 
 -   Jornal Nacional apresenta série especial sobre comida e clima. Reportagens mostram os impactos das mudanças climáticas no mapa nacional da produção de comida.
 
--   (<https://globoplay.globo.com/v/13991529/>)
+-   (<https://globoplay.globo.com/v/13991529/>){:target="_blank"}
 
 #### Aula - 06/11/2025 - Pesquisa Exploratoria "Leitura sobre: Cop 30"
